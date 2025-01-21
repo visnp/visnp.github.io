@@ -3,9 +3,9 @@
 <html lang="zh">
 <head>
     <meta charset="utf-8" />
-    <title>Hello World | 鸭鸭小镇</title>
-    <meta name="author" content="鸭" />
-    <meta name="description" content="duck" />
+    <title>Hello World | 鸭鸭小镇🌸</title>
+    <meta name="author" content="鸭纸" />
+    <meta name="description" content="欢迎" />
     <meta name="keywords" content="" />
     <meta
         name="viewport"
@@ -63,7 +63,7 @@
         <div id="menu" :class="{ hidden: hiddenMenu, 'menu-color': menuColor}">
     <nav id="desktop-menu">
         <a class="title" href="/">
-            <span>鸭鸭小镇</span>
+            <span>鸭鸭小镇🌸</span>
         </a>
         
         <a href="/">
@@ -95,7 +95,7 @@
     <nav id="mobile-menu">
         <div class="title" @click="showMenuItems = !showMenuItems">
             <i class="fa-solid fa-bars fa-fw"></i>
-            <span>&emsp;鸭鸭小镇</span>
+            <span>&emsp;鸭鸭小镇🌸</span>
         </div>
         <transition name="slide">
             <div class="items" v-show="showMenuItems">
@@ -198,11 +198,11 @@
     <div id="footer-wrap">
         <div>
             &copy;
-            2022 - 2025 鸭鸭小镇
+            2022 - 2025 鸭鸭小镇🌸
             <span id="footer-icon">
                 <i class="fa-solid fa-font-awesome fa-fw"></i>
             </span>
-            &commat;鸭
+            &commat;鸭纸
         </div>
         <div>
             Based on the <a target="_blank" rel="noopener" href="https://hexo.io">Hexo Engine</a> &amp;
@@ -236,6 +236,12 @@
 ></canvas>
 <script src="https://s4.zstatic.net/ajax/libs/animejs/3.2.1/anime.min.js"></script>
 <script src="/js/fireworks.min.js"></script>
+
+<canvas
+    id="background"
+    style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: -1"
+></canvas>
+<script src="https://static-argvchs.netlify.app/js/background.min.js"></script>
 
 </body>
 </html>
