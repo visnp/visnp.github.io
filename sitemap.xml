@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite/log.wq</loc>
+    <loc>http://yoursite/log.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite/q.wq</loc>
+    <loc>http://yoursite/q.html</loc>
     
     <lastmod>2025-01-22</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite/newpage-1.wq</loc>
+    <loc>http://yoursite/newpage-1.html</loc>
     
     <lastmod>2025-01-22</lastmod>
     
