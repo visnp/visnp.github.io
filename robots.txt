@@ -11,4 +11,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: https://yzi.icu/sitemap.xml
-Sitemap: https://yzi..icu/baidusitemap.xml
+Sitemap: https://yzi.icu/baidusitemap.xml
