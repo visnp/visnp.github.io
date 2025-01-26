@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://zsyyblog.com/sitemap.xml
-Sitemap: https://zsyyblog.com/baidusitemap.xml
+Sitemap: https://yzi.icu/sitemap.xml
+Sitemap: https://yzi..icu/baidusitemap.xml
